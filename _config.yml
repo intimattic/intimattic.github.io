@@ -13,8 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   By applying advanced data analysis and current psychological concepts, Lowella is decoding intimacy.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://lowella.com" # the base hostname & protocol for your site
-twitter_username: @wardsorrick
-github_username:  intimattic
+twitter_username: "@wardsorrick"
+github_username:  "intimattic"
 
 # Build settings
 markdown: kramdown
